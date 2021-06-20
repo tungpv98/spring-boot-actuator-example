@@ -1,4 +1,5 @@
-#Giám sát ứng dụng với Spring Boot Actuator
+# Giám sát ứng dụng với Spring Boot Actuator
+
 Spring boot actuator
 Trong bài viết này, mình sẽ giới thiệu về Spring Boot Actuator. Là một công cụ trong framwork Spring, cho phép chúng ta giám sát ứng dụng của mình trên môi trường sản xuất mà không cần phải viết code. Nó cung cấp thông tin về ứng dụng, trạng thái của ứng dụng, các dữ liệu liên quan đến ứng dụng.
 
